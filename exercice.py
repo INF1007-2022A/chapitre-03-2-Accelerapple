@@ -95,4 +95,4 @@ if __name__ == "__main__":
 	print(orthogonal((1, 1), (-1, 1)))
 	print(average([1, 4, -2, 10]))
 	print(bills(137))
-	print(format_base(123, 16, "0123456789ABCDEF"))
+	print(format_base(-42, 16, "0123456789ABCDEF"))
